@@ -82,7 +82,7 @@
 
     <cglib.version>3.3.0</cglib.version>
     <mybatis.version>3.2.8</mybatis.version>
-    <mysql-connector-java.version>5.1.41</mysql-connector-java.version>
+    <mysql-connector-java.version>8.0.27</mysql-connector-java.version>
     <grpc.version>1.25.0</grpc.version>
 
     <!-- frontend maven plugin related versions-->
