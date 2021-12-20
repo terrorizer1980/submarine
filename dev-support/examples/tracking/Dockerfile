@@ -13,7 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-FROM python:3.7
+FROM python:3.10.0b2
 MAINTAINER Apache Software Foundation <dev@submarine.apache.org>
 
 ADD ./tmp/submarine-sdk /opt/
