@@ -44,7 +44,7 @@
     <jersey-bundle.version>1.19.3</jersey-bundle.version>
     <noggit.version>0.6</noggit.version>
     <ranger.spark.package>submarine_spark_ranger_project</ranger.spark.package>
-    <ranger.version>1.2.0</ranger.version>
+    <ranger.version>2.1.0</ranger.version>
     <ranger.major.version>1</ranger.major.version>
     <spark.compatible.version>2</spark.compatible.version>
     <scala.version>2.11.8</scala.version>
@@ -587,7 +587,7 @@
         <javax.persistence.version>2.1.0</javax.persistence.version>
         <jersey-bundle.version>1.19.3</jersey-bundle.version>
         <noggit.version>0.6</noggit.version>
-        <ranger.version>1.2.0</ranger.version>
+        <ranger.version>2.1.0</ranger.version>
         <solr.version>5.5.4</solr.version>
       </properties>
     </profile>
@@ -598,7 +598,7 @@
         <httpcomponents.httpclient.version>4.5.3</httpcomponents.httpclient.version>
         <httpcomponents.httpcore.version>4.4.6</httpcomponents.httpcore.version>
         <httpcomponents.httpmime.version>4.5.3</httpcomponents.httpmime.version>
-        <ranger.version>2.0.0</ranger.version>
+        <ranger.version>2.1.0</ranger.version>
         <ranger.major.version>2</ranger.major.version>
         <solr.version>7.7.1</solr.version>
         <gethostname4j.scope>compile</gethostname4j.scope>
