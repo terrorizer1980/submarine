@@ -13,7 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-FROM golang:1.13-alpine
+FROM golang:1.19.6-alpine
 MAINTAINER Apache Software Foundation <dev@submarine.apache.org>
 
 # Update apk repositories
