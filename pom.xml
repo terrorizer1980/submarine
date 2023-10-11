@@ -69,7 +69,7 @@
     <tony.version>0.3.25</tony.version>
     <jersey.version>2.27</jersey.version>
     <jersey.servlet.version>1.13</jersey.servlet.version>
-    <jetty.version>9.4.35.v20201120</jetty.version>
+    <jetty.version>9.4.53.v20231009</jetty.version>
     <javax.ws.rsapi.version>2.1</javax.ws.rsapi.version>
     <pagehelper.version>5.1.10</pagehelper.version>
 
