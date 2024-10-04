@@ -346,7 +346,7 @@
     <profile>
       <id>hadoop-3.2</id>
       <properties>
-        <hadoop.version>3.2.1</hadoop.version>
+        <hadoop.version>3.4.0</hadoop.version>
         <jaxb-api.version>2.2.11</jaxb-api.version>
         <commons-compress.version>1.19</commons-compress.version>
         <guice-servlet.version>4.0</guice-servlet.version>
@@ -364,7 +364,7 @@
     <profile>
       <id>hadoop-3.1</id>
       <properties>
-        <hadoop.version>3.1.3</hadoop.version>
+        <hadoop.version>3.4.0</hadoop.version>
         <jaxb-api.version>2.2.11</jaxb-api.version>
         <commons-compress.version>1.19</commons-compress.version>
         <guice-servlet.version>4.0</guice-servlet.version>
@@ -383,7 +383,7 @@
         <activeByDefault>false</activeByDefault>
       </activation>
       <properties>
-        <hadoop.version>2.10.0</hadoop.version>
+        <hadoop.version>3.4.0</hadoop.version>
         <jaxb-api.version>2.2.2</jaxb-api.version>
         <commons-compress.version>1.19</commons-compress.version>
         <guice-servlet.version>3.0</guice-servlet.version>
@@ -399,7 +399,7 @@
         <activeByDefault>true</activeByDefault>
       </activation>
       <properties>
-        <hadoop.version>2.9.2</hadoop.version>
+        <hadoop.version>3.4.0</hadoop.version>
         <jaxb-api.version>2.2.11</jaxb-api.version>
         <commons-compress.version>1.4.1</commons-compress.version>
         <guice-servlet.version>3.0</guice-servlet.version>
