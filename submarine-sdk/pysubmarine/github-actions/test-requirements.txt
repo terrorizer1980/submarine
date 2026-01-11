@@ -30,4 +30,5 @@ certifi >= 14.05.14
 six >= 1.10
 python_dateutil >= 2.5.3
 setuptools >= 21.0.0
-urllib3 >= 1.15.1
+urllib3>=2.6.3
+werkzeug>=3.1.5 # not directly required, pinned by Snyk to avoid a vulnerability
